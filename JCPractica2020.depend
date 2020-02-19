@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1582082221 source:/home/maldonado/Escritorio/JCPractica2020/main.cpp
+	<ncurses.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1582082221 source:c:\users\maldonado\desktop\edd_1s2020_p1_201222687\jcpractica2020\main.cpp
+	<ncurses.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
